@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Nungga&#39;s Portofolio</title>
-    <link>//localhost:51889/authors/</link>
+    <link>//localhost:1313/authors/</link>
     <description>Recent content in Authors on Nungga&#39;s Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nunggasaputra@gmail.com (Nungga Saputra)</managingEditor>
     <webMaster>nunggasaputra@gmail.com (Nungga Saputra)</webMaster>
     
-    <atom:link href="//localhost:51889/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cvs on Nungga&#39;s Portofolio</title>
-    <link>//localhost:51889/cv/</link>
+    <link>//localhost:1313/cv/</link>
     <description>Recent content in Cvs on Nungga&#39;s Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nunggasaputra@gmail.com (Nungga Saputra)</managingEditor>
     <webMaster>nunggasaputra@gmail.com (Nungga Saputra)</webMaster>
     
-    <atom:link href="//localhost:51889/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Curriculum vitae</title>
-      <link>//localhost:51889/cv/cv/</link>
+      <link>//localhost:1313/cv/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
-      <guid>//localhost:51889/cv/cv/</guid>
+      <guid>//localhost:1313/cv/cv/</guid>
       <description>Full My CV # Grab my full CV to press the button at the below :
 Download
 Experience # &lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34;?&gt;BBPMGB LEMIGAS Feb 2023 to Present Junior Geophysicist Processing and Interpreter Seismic Website</description>

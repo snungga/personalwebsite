@@ -3,130 +3,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:51889/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/categories/blog/</loc>
+    <loc>//localhost:1313/categories/blog/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/interpolations-coordinate/</loc>
+    <loc>//localhost:1313/projects/interpolations-coordinate/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/tags/learning/</loc>
+    <loc>//localhost:1313/tags/learning/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/pinn-models/</loc>
+    <loc>//localhost:1313/projects/pinn-models/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/tags/paper/</loc>
+    <loc>//localhost:1313/tags/paper/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/categories/post/</loc>
+    <loc>//localhost:1313/categories/post/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/categories/projects/</loc>
+    <loc>//localhost:1313/categories/projects/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/tags/seismic/</loc>
+    <loc>//localhost:1313/tags/seismic/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/tags/technical/</loc>
+    <loc>//localhost:1313/tags/technical/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/text-extraction-from-images/</loc>
+    <loc>//localhost:1313/projects/text-extraction-from-images/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/tags/competitions/</loc>
+    <loc>//localhost:1313/tags/competitions/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/deep-learning-approaches/</loc>
+    <loc>//localhost:1313/projects/deep-learning-approaches/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/comparative-algorithm-ml/</loc>
+    <loc>//localhost:1313/projects/comparative-algorithm-ml/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/fault-detection/</loc>
+    <loc>//localhost:1313/projects/fault-detection/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/cv/cv/</loc>
+    <loc>//localhost:1313/cv/cv/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/cv/</loc>
+    <loc>//localhost:1313/cv/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:51889/series/</loc>
+    <loc>//localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
