@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nungga&#39;s Portofolio</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Projects on Nungga&#39;s Portofolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Nungga Saputra</copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning PINN Models for cases in between seismic data and well logs data</title>
+      <link>//localhost:1313/posts/pinn-models/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/pinn-models/</guid>
+      <description>Traditionally, this process involves multiple steps: first, inversion of seismic data to estimate velocities (through methods like acoustic inversion), and then using these velocities to predict petrophysical properties. The main limitation of these methods is that they often do not incorporate uncertainty quantification, leading to suboptimal predictions. Machine learning, and more specifically physics-informed neural networks (PINNs).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/pinn-models/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Text Extraction from Image in this case Document Report Seismic</title>
+      <link>//localhost:1313/posts/text-extraction-from-images/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/text-extraction-from-images/</guid>
+      <description>Extracting text from an image can be exhausting, especially when you have a lot to extract. One commonly known text extraction library is PyTesseract or EasyOCR, optical character recognition (OCR). These libraries provide you with the text directly from the image.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/text-extraction-from-images/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Deep Learning Approaches for seismic GR Predictions: insight from seismic attributes</title>
+      <link>//localhost:1313/posts/deep-learning-approaches/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/deep-learning-approaches/</guid>
+      <description>The focus of this presentation is how to utilize seismic data to predict gamma-ray logs or GR. These predictions play an important role in identifying lithologic characteristics, stratigraphy, sedimentary facies and hydrocarbon zones, especially in exploration areas that lack well data.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/deep-learning-approaches/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Comparative Algorithm Machine Learning</title>
+      <link>//localhost:1313/posts/comparative-algorithm-ml/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/comparative-algorithm-ml/</guid>
+      <description>The study used machine learning approaches to acquire predictive log Gamma Ray (GR) data by evaluating the window time base and applying machine learning algorithm in the form of Random Forest and K-Nearest Neighbor (KNN), also deep learning Long-Short Term Memory (LSTM) and Bi-LSTM.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/comparative-algorithm-ml/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

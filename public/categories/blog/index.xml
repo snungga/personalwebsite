@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Nungga&#39;s Portofolio</title>
+    <link>//localhost:51889/categories/blog/</link>
+    <description>Recent content in Blog on Nungga&#39;s Portofolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nunggasaputra@gmail.com (Nungga Saputra)</managingEditor>
+    <webMaster>nunggasaputra@gmail.com (Nungga Saputra)</webMaster>
+    
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:51889/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Text Extraction from Image in this case Document Report Seismic</title>
+      <link>//localhost:51889/projects/text-extraction-from-images/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/text-extraction-from-images/</guid>
+      <description>Extracting text from an image can be exhausting, especially when you have a lot to extract. One commonly known text extraction library is PyTesseract or EasyOCR, optical character recognition (OCR). These libraries provide you with the text directly from the image.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/text-extraction-from-images/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Deep Learning Approaches for seismic GR Predictions: insight from seismic attributes</title>
+      <link>//localhost:51889/projects/deep-learning-approaches/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/deep-learning-approaches/</guid>
+      <description>The focus of this presentation is how to utilize seismic data to predict gamma-ray logs or GR. These predictions play an important role in identifying lithologic characteristics, stratigraphy, sedimentary facies and hydrocarbon zones, especially in exploration areas that lack well data.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/deep-learning-approaches/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

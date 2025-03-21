@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nungga&#39;s Portofolio</title>
+    <link>//localhost:51889/projects/</link>
+    <description>Recent content in Projects on Nungga&#39;s Portofolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nunggasaputra@gmail.com (Nungga Saputra)</managingEditor>
+    <webMaster>nunggasaputra@gmail.com (Nungga Saputra)</webMaster>
+    
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="//localhost:51889/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interpolation coordinates Shot Point (SP) data as supported imaging seismic</title>
+      <link>//localhost:51889/projects/interpolations-coordinate/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/interpolations-coordinate/</guid>
+      <description>TIn the world of geophysics, coordinates are typically the foundation of all measurements and interpretations. They allow geophysicists to map subsurface features, such as faults, reservoirs, and layers, with precision.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/interpolations-coordinate/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Learning PINN Models for cases in between seismic data and well logs data</title>
+      <link>//localhost:51889/projects/pinn-models/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/pinn-models/</guid>
+      <description>Traditionally, this process involves multiple steps: first, inversion of seismic data to estimate velocities (through methods like acoustic inversion), and then using these velocities to predict petrophysical properties. The main limitation of these methods is that they often do not incorporate uncertainty quantification, leading to suboptimal predictions. Machine learning, and more specifically physics-informed neural networks (PINNs).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/pinn-models/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Text Extraction from Image in this case Document Report Seismic</title>
+      <link>//localhost:51889/projects/text-extraction-from-images/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/text-extraction-from-images/</guid>
+      <description>Extracting text from an image can be exhausting, especially when you have a lot to extract. One commonly known text extraction library is PyTesseract or EasyOCR, optical character recognition (OCR). These libraries provide you with the text directly from the image.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/text-extraction-from-images/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Deep Learning Approaches for seismic GR Predictions: insight from seismic attributes</title>
+      <link>//localhost:51889/projects/deep-learning-approaches/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/deep-learning-approaches/</guid>
+      <description>The focus of this presentation is how to utilize seismic data to predict gamma-ray logs or GR. These predictions play an important role in identifying lithologic characteristics, stratigraphy, sedimentary facies and hydrocarbon zones, especially in exploration areas that lack well data.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/deep-learning-approaches/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Comparative Algorithm Machine Learning</title>
+      <link>//localhost:51889/projects/comparative-algorithm-ml/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/comparative-algorithm-ml/</guid>
+      <description>The study used machine learning approaches to acquire predictive log Gamma Ray (GR) data by evaluating the window time base and applying machine learning algorithm in the form of Random Forest and K-Nearest Neighbor (KNN), also deep learning Long-Short Term Memory (LSTM) and Bi-LSTM.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/comparative-algorithm-ml/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Seismic Fault Interprattion Using Deep Learning: Convolutional Neural Network (CNN)</title>
+      <link>//localhost:51889/projects/fault-detection/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <author>nunggasaputra@gmail.com (Nungga Saputra)</author>
+      <guid>//localhost:51889/projects/fault-detection/</guid>
+      <description>In the exploration and exploitation of hydrocarbons, various interdisciplinary studies are conducted and analyzed comprehensively to obtain as much information.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51889/projects/fault-detection/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
