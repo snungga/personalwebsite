@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://myporto-nungga.netlify.app"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
